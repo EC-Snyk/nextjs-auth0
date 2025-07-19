@@ -111,7 +111,7 @@
     "http-errors": "^1.8.0",
     "joi": "^17.4.0",
     "jose": "^2.0.5",
-    "on-headers": "^1.0.2",
+    "on-headers": "^1.1.0",
     "openid-client": "^4.2.3",
     "tslib": "^2.1.0",
     "url-join": "^4.0.1"
